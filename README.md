@@ -2,4 +2,6 @@
 
 Software Developer | Computer Engineering Student at Kasetsart University, Kamphaeng Saen Campus
 
-I am currently studying Computer Engineering at KU KPS and have a strong interest in software development. I enjoy building full-stack web applications, mobile apps, and exploring AI technologies. I believe in learning by doing, and I’m always open to collaborating on interesting projects.
+Hi, my name is Suwinai Aiamsumaung. I am currently studying Computer Engineering at Kasetsart University, Kamphaeng Saen Campus. I am passionate about software development and enjoy learning new technologies through hands-on projects.
+
+My main interests include web development, mobile app development, and exploring AI-related tools. I believe in continuous learning, teamwork, and building projects that solve real-world problems.
